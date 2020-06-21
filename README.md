@@ -2,7 +2,7 @@
 A website built with react to demonstrate routing capabilities of the react-router library.
 
 ## Demo
-![React Router Project demo]()
+![React Router Project demo](https://github.com/ayeshaf9/react-router/blob/master/ReactRouterDemo.gif)
 
 ## Steps
 
